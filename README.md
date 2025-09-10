@@ -1,4 +1,4 @@
-# House_Price_Prediction_in_Mexico_City
+# House_Price_Prediction
 ## Overview
 This repository contains a Python notebook and documentation for predicting house prices in Mexico City. 
 ## Files
